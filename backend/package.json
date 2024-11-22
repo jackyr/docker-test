@@ -1,0 +1,12 @@
+{
+  "name": "docker-node-mysql",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "mysql2": "^3.11.4",
+    "nodemon": "^3.1.7"
+  }
+}
